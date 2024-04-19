@@ -1,0 +1,18 @@
+"config"
+{
+	"bindings"
+	{
+		"SHIFT"		"+sprint"
+		"MOUSE4"		"slot8 ; cl_crosshairsize 1000"
+		"CAPSLOCK"		"+voicerecord"
+		"CTRL"		"+duck"
+		"MOUSE2"		"+attack2"
+		"SPACE"		"+jump"
+		"k"		"+quickinv"
+		"x"		"sv_cheats 1; noclip"
+		"1"		"slot1 ; cl_crosshairsize 2"
+		"2"		"slot2 ; cl_crosshairsize 2"
+		"3"		"slot3 ; cl_crosshairsize 2"
+		"b"		"buymenu"
+	}
+}
