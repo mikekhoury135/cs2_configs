@@ -1,0 +1,8 @@
+"config"
+{
+	"bindings"
+	{
+		"v"		"+voicerecord"
+		"MOUSE4"		"<unbound>"
+	}
+}

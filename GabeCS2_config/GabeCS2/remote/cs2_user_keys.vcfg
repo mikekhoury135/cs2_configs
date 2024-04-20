@@ -1,0 +1,10 @@
+"config"
+{
+	"bindings"
+	{
+		"v"		"+voicerecord"
+		"MOUSE4"		"<unbound>"
+		"p"		"sv_cheats 1; noclip"
+		"x"		"+boing; +ding; +dong"
+	}
+}

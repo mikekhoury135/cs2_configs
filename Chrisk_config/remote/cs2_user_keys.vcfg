@@ -1,0 +1,15 @@
+"config"
+{
+	"bindings"
+	{
+		"SPACE"		"<unbound>"
+		"MWHEELDOWN"		"+jump"
+		"MOUSE1"		"+attack"
+		"MWHEELUP"		"<unbound>"
+		"KP_MINUS"		"invprev"
+		"MOUSE4"		"<unbound>"
+		"CAPSLOCK"		"+voicerecord"
+		"KP_ENTER"		"toggleconsole"
+		"`"		"<unbound>"
+	}
+}
