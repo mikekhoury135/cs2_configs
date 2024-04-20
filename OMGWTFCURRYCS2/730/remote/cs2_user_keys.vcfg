@@ -1,0 +1,14 @@
+"config"
+{
+	"bindings"
+	{
+		"SPACE"		"+jump"
+		"MWHEELDOWN"		"+jump"
+		"v"		"+voicerecord"
+		"MOUSE4"		"noclip"
+		"MOUSE1"		"+attack"
+		"MWHEELUP"		"+jump"
+		"PGDN"		"invprev"
+		"p"		"sv_cheats 1; noclip"
+	}
+}

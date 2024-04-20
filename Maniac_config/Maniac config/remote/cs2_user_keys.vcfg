@@ -1,0 +1,16 @@
+"config"
+{
+	"bindings"
+	{
+		"x"		"sv_cheats 1; noclip"
+		"f"		"<unbound>"
+		"MOUSE4"		"+voicerecord"
+		"t"		"<unbound>"
+		"MOUSE5"		"+lookatweapon"
+		"w"		"+forward"
+	}
+	"analogbindings"
+	{
+		"MOUSE_Y"		"pitch"
+	}
+}
